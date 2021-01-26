@@ -195,7 +195,7 @@ public class Weapon : MonoBehaviour
         }
         else
         {
-            Debug.Log("yaaay");
+            Debug.Log("success");
         }*/
         float angle = Vector3.Angle(rb.GetPointVelocity(p), Vector3.up);
         if(angle > 45)
@@ -205,7 +205,7 @@ public class Weapon : MonoBehaviour
         }
         else
         {
-            Debug.Log("yaaay");
+            Debug.Log("success, angle is < 45");
         }
     }
 
