@@ -1,6 +1,6 @@
 # Dungeon-Climber
 
-[![Demo Video](https://donmannprogrammer.files.wordpress.com/2015/11/vrpreview1.png | width=100)](https://youtu.be/doggEK0zXY8)
+[![Demo Video](https://donmannprogrammer.files.wordpress.com/2015/11/vrpreview1.png){:height="50%" width="50%"}](https://youtu.be/doggEK0zXY8)
 
 [Demo Video](https://youtu.be/doggEK0zXY8)
 
