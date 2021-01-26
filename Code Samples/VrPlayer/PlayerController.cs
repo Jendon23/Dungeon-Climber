@@ -148,7 +148,6 @@ public class PlayerController : ActorController
             inputPackage.input_fly = false;
         }
 
-        //portfolio temporary reset
         if (ni.isServer && rightDevice.GetPressUp(SteamVR_Controller.ButtonMask.ApplicationMenu))
         {
             gm.im.ModifyInventory(InventoryManager.InventoryItem.Key, -gm.im.inventory[(int)InventoryManager.InventoryItem.Key]);
